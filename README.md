@@ -8,7 +8,8 @@ It captured the essence of trpc without the advances stuff.
 
 # demo
 
-![demo](demo.png)
+![demo](https://github.com/user-attachments/assets/1198c678-487a-48da-bf1d-3073afa9b8d0)
+
 
 # docs
 
